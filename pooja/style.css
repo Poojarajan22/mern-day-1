@@ -1,0 +1,22 @@
+h1{
+    color: brown;
+    background-color: rgb(65, 125, 177);
+    border: 10px solid red;}
+    table,th,td{
+        border: 2px solid cadetblue;
+    }
+    
+body{
+    background-color: rgb(194, 121, 25);
+    font-style: italic;
+}
+.part1{
+    margin: 50px;
+    background-color: azure;
+    padding: 40px;
+    background-image: url("https://lh4.googleusercontent.com/proxy/JUeAJV1lvH4lSJN-krf0d_y0RqCOZE3OgnndiWUJmbFiuXMXhen0ioSI0MnjvTkZ-wPzybjVWbX3KtTV9I_LekYtHlCI");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
